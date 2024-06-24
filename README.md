@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aritra0109
-- 👀 I’m interested in AI/Ml and Web Devlopment
+- 👀 I’m interested in Data Science and Software Engineering
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate with various people to gain experience and work on projects
 - 📫 How to reach me https://www.linkedin.com/in/aritra-das-181717186/
